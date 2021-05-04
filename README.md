@@ -1,4 +1,6 @@
-### Hi there 👋
+![alibali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alibali920&show_icons=true&theme=merko)
+![alibali's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibali920&theme=merko)
+
 
 <!--
 **alibali920/alibali920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
